@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+<node id='-1'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258453' lon='-79.920698' />
+<node id='-2'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258455' lon='-79.920656' />
+<node id='-3'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258787' lon='-79.920674' />
+<node id='-4'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258788' lon='-79.920652' />
+<node id='-5'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258910' lon='-79.920659' />
+<node id='-6'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258909' lon='-79.920681' />
+<node id='-7'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259032' lon='-79.920688' />
+<node id='-8'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259004' lon='-79.921339' />
+<node id='-9'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258768' lon='-79.921326' />
+<node id='-10'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258766' lon='-79.921371' />
+<node id='-11'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258445' lon='-79.921353' />
+<node id='-12'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258444' lon='-79.921371' />
+<node id='-13'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258432' lon='-79.921371' />
+<node id='-14'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258439' lon='-79.921210' />
+<node id='-15'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258508' lon='-79.921214' />
+<node id='-16'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258503' lon='-79.921331' />
+<node id='-17'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258749' lon='-79.921345' />
+<node id='-18'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258751' lon='-79.921299' />
+<node id='-19'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258773' lon='-79.921300' />
+<node id='-20'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258774' lon='-79.921292' />
+<node id='-21'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258980' lon='-79.921304' />
+<node id='-22'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259004' lon='-79.920728' />
+<node id='-23'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258864' lon='-79.920720' />
+<node id='-24'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258852' lon='-79.920994' />
+<node id='-25'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258827' lon='-79.920993' />
+<node id='-26'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258828' lon='-79.920979' />
+<node id='-27'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258702' lon='-79.920972' />
+<node id='-28'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258700' lon='-79.921029' />
+<node id='-29'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258683' lon='-79.921028' />
+<node id='-30'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258696' lon='-79.920711' />
+<node id='-31'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258453' lon='-79.920698' />
+<node id='-32'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258710' lon='-79.920711' />
+<node id='-33'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258699' lon='-79.920957' />
+<node id='-34'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258829' lon='-79.920964' />
+<node id='-35'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258839' lon='-79.920719' />
+<node id='-36'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258710' lon='-79.920711' />
+<node id='-37'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258446' lon='-79.921331' />
+<node id='-38'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258484' lon='-79.921333' />
+<node id='-39'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258489' lon='-79.921229' />
+<node id='-40'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258450' lon='-79.921227' />
+<node id='-41'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258446' lon='-79.921331' />
+<node id='-42'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258458' lon='-79.920677'>
+	 <tag k='marker' v='1'/>
+</node>
+<node id='-43'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258479' lon='-79.920678'>
+	 <tag k='marker' v='2'/>
+</node>
+<node id='-44'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258500' lon='-79.920679'>
+	 <tag k='marker' v='3'/>
+</node>
+<node id='-45'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258525' lon='-79.920681'>
+	 <tag k='marker' v='4'/>
+</node>
+<node id='-46'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258547' lon='-79.920682'>
+	 <tag k='marker' v='5'/>
+</node>
+<node id='-47'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258568' lon='-79.920683'>
+	 <tag k='marker' v='6'/>
+</node>
+<node id='-48'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258589' lon='-79.920684'>
+	 <tag k='marker' v='7'/>
+</node>
+<node id='-49'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258610' lon='-79.920685'>
+	 <tag k='marker' v='8'/>
+</node>
+<node id='-50'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258632' lon='-79.920687'>
+	 <tag k='marker' v='9'/>
+</node>
+<node id='-51'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258653' lon='-79.920688'>
+	 <tag k='marker' v='10'/>
+</node>
+<node id='-52'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258674' lon='-79.920689'>
+	 <tag k='marker' v='11'/>
+</node>
+<node id='-53'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258696' lon='-79.920690'>
+	 <tag k='marker' v='12'/>
+</node>
+<node id='-54'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258717' lon='-79.920691'>
+	 <tag k='marker' v='13'/>
+</node>
+<node id='-55'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258738' lon='-79.920692'>
+	 <tag k='marker' v='14'/>
+</node>
+<node id='-56'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258759' lon='-79.920694'>
+	 <tag k='marker' v='15'/>
+</node>
+<node id='-57'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258781' lon='-79.920695'>
+	 <tag k='marker' v='16'/>
+</node>
+<node id='-58'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258802' lon='-79.920696'>
+	 <tag k='marker' v='17'/>
+</node>
+<node id='-59'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258823' lon='-79.920697'>
+	 <tag k='marker' v='18'/>
+</node>
+<node id='-60'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258850' lon='-79.920699'>
+	 <tag k='marker' v='19'/>
+</node>
+<node id='-61'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258871' lon='-79.920700'>
+	 <tag k='marker' v='20'/>
+</node>
+<node id='-62'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258892' lon='-79.920701'>
+	 <tag k='marker' v='21'/>
+</node>
+<node id='-63'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258914' lon='-79.920702'>
+	 <tag k='marker' v='22'/>
+</node>
+<node id='-64'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258935' lon='-79.920703'>
+	 <tag k='marker' v='23'/>
+</node>
+<node id='-65'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258956' lon='-79.920705'>
+	 <tag k='marker' v='24'/>
+</node>
+<node id='-66'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258978' lon='-79.920706'>
+	 <tag k='marker' v='25'/>
+</node>
+<node id='-67'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258999' lon='-79.920707'>
+	 <tag k='marker' v='26'/>
+</node>
+<node id='-68'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259020' lon='-79.920708'>
+	 <tag k='marker' v='27'/>
+</node>
+<node id='-69'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259017' lon='-79.920735'>
+	 <tag k='marker' v='28'/>
+</node>
+<node id='-70'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259016' lon='-79.920765'>
+	 <tag k='marker' v='29'/>
+</node>
+<node id='-71'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259014' lon='-79.920794'>
+	 <tag k='marker' v='30'/>
+</node>
+<node id='-72'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259013' lon='-79.920824'>
+	 <tag k='marker' v='31'/>
+</node>
+<node id='-73'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259012' lon='-79.920854'>
+	 <tag k='marker' v='32'/>
+</node>
+<node id='-74'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259011' lon='-79.920884'>
+	 <tag k='marker' v='33'/>
+</node>
+<node id='-75'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259009' lon='-79.920914'>
+	 <tag k='marker' v='34'/>
+</node>
+<node id='-76'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259008' lon='-79.920943'>
+	 <tag k='marker' v='35'/>
+</node>
+<node id='-77'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259007' lon='-79.920973'>
+	 <tag k='marker' v='36'/>
+</node>
+<node id='-78'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259005' lon='-79.921003'>
+	 <tag k='marker' v='37'/>
+</node>
+<node id='-79'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259004' lon='-79.921033'>
+	 <tag k='marker' v='38'/>
+</node>
+<node id='-80'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259003' lon='-79.921063'>
+	 <tag k='marker' v='39'/>
+</node>
+<node id='-81'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259002' lon='-79.921093'>
+	 <tag k='marker' v='40'/>
+</node>
+<node id='-82'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.259000' lon='-79.921122'>
+	 <tag k='marker' v='41'/>
+</node>
+<node id='-83'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258999' lon='-79.921152'>
+	 <tag k='marker' v='42'/>
+</node>
+<node id='-84'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258998' lon='-79.921182'>
+	 <tag k='marker' v='43'/>
+</node>
+<node id='-85'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258997' lon='-79.921212'>
+	 <tag k='marker' v='44'/>
+</node>
+<node id='-86'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258995' lon='-79.921242'>
+	 <tag k='marker' v='45'/>
+</node>
+<node id='-87'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258994' lon='-79.921272'>
+	 <tag k='marker' v='46'/>
+</node>
+<node id='-88'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258993' lon='-79.921301'>
+	 <tag k='marker' v='47'/>
+</node>
+<node id='-89'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258991' lon='-79.921331'>
+	 <tag k='marker' v='48'/>
+</node>
+<node id='-90'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258959' lon='-79.921320'>
+	 <tag k='marker' v='49'/>
+</node>
+<node id='-91'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258937' lon='-79.921319'>
+	 <tag k='marker' v='50'/>
+</node>
+<node id='-92'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258916' lon='-79.921317'>
+	 <tag k='marker' v='51'/>
+</node>
+<node id='-93'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258895' lon='-79.921316'>
+	 <tag k='marker' v='52'/>
+</node>
+<node id='-94'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258874' lon='-79.921315'>
+	 <tag k='marker' v='53'/>
+</node>
+<node id='-95'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258852' lon='-79.921314'>
+	 <tag k='marker' v='54'/>
+</node>
+<node id='-96'  action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' lat='43.258831' lon='-79.921313'>
+	 <tag k='marker' v='55'/>
+</node>
+
+<way id='-97' action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' >
+	 <nd ref='-1' />
+	 <nd ref='-2' />
+	 <nd ref='-3' />
+	 <nd ref='-4' />
+	 <nd ref='-5' />
+	 <nd ref='-6' />
+	 <nd ref='-7' />
+	 <nd ref='-8' />
+	 <nd ref='-9' />
+	 <nd ref='-10' />
+	 <nd ref='-11' />
+	 <nd ref='-12' />
+	 <nd ref='-13' />
+	 <nd ref='-14' />
+	 <nd ref='-15' />
+	 <nd ref='-16' />
+	 <nd ref='-17' />
+	 <nd ref='-18' />
+	 <nd ref='-19' />
+	 <nd ref='-20' />
+	 <nd ref='-21' />
+	 <nd ref='-22' />
+	 <nd ref='-23' />
+	 <nd ref='-24' />
+	 <nd ref='-25' />
+	 <nd ref='-26' />
+	 <nd ref='-27' />
+	 <nd ref='-28' />
+	 <nd ref='-29' />
+	 <nd ref='-30' />
+	 <nd ref='-31' />
+	 <nd ref='-1' />
+</way>
+
+<way id='-98' action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' >
+	 <nd ref='-32' />
+	 <nd ref='-33' />
+	 <nd ref='-34' />
+	 <nd ref='-35' />
+	 <nd ref='-36' />
+	 <nd ref='-32' />
+</way>
+
+<way id='-99' action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z'>
+	 <nd ref='-37' />
+	 <nd ref='-38' />
+	 <nd ref='-39' />
+	 <nd ref='-40' />
+	 <nd ref='-41' />
+	 <nd ref='-37' />
+</way>
+
+<relation id='-100' action='modify' version='1' changeset='1' visible='true' timestamp='2017-08-17T11:40:26Z' >
+	 <member type='way' ref='-97' role='outer' />
+	 <member type='way' ref='-98' role='inner' />
+	 <member type='way' ref='-99' role='inner' />
+	 <tag k='type' v='multipolygon' />
+</relation></osm>
